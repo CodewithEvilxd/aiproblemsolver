@@ -10,17 +10,17 @@
     A search engine powered by AI that solves your problems
     <br />
     <br />
-    <a href="https://aiproblemsolver.vercel.app">View Website</a>
+    <a href="https://aiproblemsolver.onrender.com/">View Website</a>
   </p>
 </div>
 
 <!-- Preview -->
 ## 📸 Screenshot
-![image](https://github.com/Supernova3339/aiproblemsolver/assets/63515814/010e9ee6-ebc8-40e7-826a-d4ee8227d79a)
+![image](https://github.com/codewithevilxd/aiproblemsolver/assets/63515814/010e9ee6-ebc8-40e7-826a-d4ee8227d79a)
 
 ### 🚀 Try it now!
 
-[AI Problem Solver](https://aiproblemsolver.vercel.app)
+[AI Problem Solver](https://aiproblemsolver.onrender.com/)
 
 ### 🛠️ Built With
 
@@ -44,7 +44,7 @@
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/supernova3339/aiproblemsolver.git
+   git clone https://github.com/CodewithEvilxd/aiproblemsolver.git
    ```
 2. Install dependencies
    ```sh
@@ -61,7 +61,7 @@
 <!-- Usage -->
 ## 🧑‍💻 Usage
 
-1. Visit [AI Problem Solver](https://aiproblemsolver.vercel.app/).
+1. Visit [AI Problem Solver](https://aiproblemsolver.onrender.com/).
 2. Enter your problem in the search bar.
 3. Press Enter to get AI-generated solutions.
 
